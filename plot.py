@@ -13,3 +13,4 @@ plt.plot(x,y)
 
 # add red dots
 plt.plot(x,y,"ro")
+plt.show()
